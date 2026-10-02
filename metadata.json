@@ -1,0 +1,6 @@
+{
+  "name": "Choir Funds",
+  "description": "Financial register for church choirs. Manage members, weekly dues, voluntary gifts, campaigns, and expenses in FCFA (English & French).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
